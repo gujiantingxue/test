@@ -2,3 +2,6 @@ This is new txt
 这里出现改变first midify
 换个版本也需要改变new tag
 增加一行新的
+first midify
+如果修改了这一行，会有什么效果呢？这是release的修改
+这一行不做修噶？new tag
